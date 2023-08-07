@@ -72,7 +72,8 @@ We Have Many Ideas And Plans For BlitzedGrabberV13, These Features Consist Of,
 Blitzed Grabber X96 NEON Edition Coming Soon
 
 
-![image](https://github.com/BlitzedOfficial/BlitzedGrabberV12/assets/141662956/360b6f21-1e0c-496f-98c2-d4241526aff9)
+![image](https://github.com/BlitzedOfficial/BlitzedGrabberV12/assets/141662956/3eff68e6-6441-4945-9ede-41c006dd2ec3)
+
 
 
 
